@@ -1,0 +1,1 @@
+This repository demonstrates a subtle but common error in JavaScript when interacting with the HTML DOM. The bug is a simple typo in the function name used to access an HTML element by its ID.  The solution corrects the typo and provides the correct syntax.
